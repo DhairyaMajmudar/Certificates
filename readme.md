@@ -10,3 +10,5 @@ This repo consists of certificates reveived after completion of different mentor
 4. [Hacktoberfest'23 tree planatation certificate](https://github.com/DhairyaMajmudar/Certificates/blob/main/hacktoberFest-tree-nation.pdf)
 5. [HackerRank course completion certificate](https://github.com/DhairyaMajmudar/Certificates/blob/main/hackerRank.pdf)
 6. [Hackthechain hackathon volunteering certificate](https://github.com/DhairyaMajmudar/Certificates/blob/main/hackTheChain-certificate-of-volunteering.pdf) 
+6. [Google Summer of Code 2025 - kro completion certificate](https://github.com/DhairyaMajmudar/Certificates/blob/main/google-summer-of-code-gsoc'25.pdf) 
+6. [CNCF LFX'25 - Headlamp completion certificate](https://github.com/DhairyaMajmudar/Certificates/blob/main/cncf-headlamp-lfx'25.png) 
